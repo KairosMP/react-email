@@ -16,7 +16,7 @@ function App() {
 
     const templateParams = {
       from_name: name,
-      message: message,
+      messagem: message,
       email: email
     }
 
