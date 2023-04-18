@@ -1,9 +1,9 @@
 {
-  "name": "email",
+  "name": "oi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emailjs/browser": "^3.7.0",
+    "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/devfraga/react-email.git",
+  "author": "Miller <109192850+KairosMP@users.noreply.github.com>",
+  "license": "MIT"
 }
